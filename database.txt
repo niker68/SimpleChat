@@ -10,5 +10,4 @@ message
 -id INT NOT NULL AUTO_INCREMENT
 -time DATETIME NOT NULL
 -text VARCHAR(255)
--from user
--to user
+-from userId INT NOT NULL
